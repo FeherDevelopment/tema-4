@@ -1,0 +1,39 @@
+/* 
+Theme Name: Development Astra Child
+Author: Feher Madalin
+Template: astra
+Version: 1.0.2
+Description: This is a child theme.
+Text Domain: astra-child
+*/
+.navigation-top {
+  overflow: hidden;
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav .topnav-right {
+  float: right;
+}
+
+.heading {
+  text-align: center;
+}
